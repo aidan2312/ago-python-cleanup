@@ -1,4 +1,4 @@
-  import logging
+import logging
 from arcgis.gis import GIS
 from ipywidgets import IntProgress
 from IPython.display import display, Markdown
